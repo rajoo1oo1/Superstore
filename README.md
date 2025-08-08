@@ -1,4 +1,4 @@
-# Super Store
+# superstore-sales
 
 ## Introduction
 To analyze historical sales data of a retail superstore to uncover actionable insights, identify trends in customer behavior, evaluate regional performance, and recommend data-driven strategies to improve profitability and operations.
